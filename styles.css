@@ -146,30 +146,39 @@ footer{
 
 .label{
   position: relative;
-  left: 30px;
+  bottom:-30px;
+  margin-left: 40px
+
 }
 .input{
   width: 150px;
   height: 10px;
+  float: right;
+  margin: 10px;
   position: relative;
-  left: 100px;
-  bottom: 35px;
-  margin-top: -10px;
+  bottom: -20px;
 }
 .p1{
   text-align: center;
 }
 
-
+.a01{
+  font-size: 22px;
+  color: black;
+  position: relative;
+  bottom: -17px;
+}
 
 .td1{
   width: 150px;
   height: 30px;
   font-size: 15px;
   top: 20px;
-  float: left;
+  float: all;
   position: relative;
+  left: 35px;
   bottom: 200px;
   margin: 30px 30px 30px 30px;
-  margin-top: 0px;
+  margin-top: 60px;
+
 }
